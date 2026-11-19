@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+main_backup_before_design.py
+main_before_header_fix.py
+old_files_backup/
